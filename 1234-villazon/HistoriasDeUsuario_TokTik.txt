@@ -1,0 +1,16 @@
+Historias de Usuario - Diego Villazon
+
+1. 
+- Como usuario 'periodista' de TokTik.
+- Quiero poder publicar informacion y noticias verificadas y de fuentes confiables para los suscriptores de la App.
+- Para mantener a la gente bien informada ante el aumento de las noticias falsas y engañosas en redes sociales.
+
+2. 
+- Como usuario 'consumidor' de TokTik.
+- Quiero poder pagar por una suscripción para la App para poder acceder a la información confiable publicada por periodistas.
+- Para poder mantenerme bien informado y también poder estar seguro que la información proporcionada es valiosa y real.
+
+3. 
+- Como usuario 'anunciante' de TokTik.
+- Quiero poder patrocinar algunos productos en la aplicación pagando a los creadores para que los usuarios puedan verlo entre los videos cortos de las noticias.
+- Para tener mayor alcance.
